@@ -30,7 +30,7 @@ This application provides a simple UI to administrate Spring Boot applications. 
 * Notification on status change (via mail, Slack, Hipchat, ...)
 * Event journal of status changes (non persistent)
 
-## Getting Started
+## Getting Started  
 
 [A quick guide](http://codecentric.github.io/spring-boot-admin/1.4.3/#getting-started) to get started can be found in our docs.
 
